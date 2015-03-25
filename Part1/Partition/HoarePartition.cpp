@@ -24,9 +24,6 @@ int Partition(int *A, int n)
         }
     }
 
-    cout<<"right: "<<right<<" left: "<<left<<endl;
-
-
     swap(A[left], A[n-1]);
 
     return left;
