@@ -1,0 +1,1 @@
+Part1 - zadania z trzech pierwszych æwiczeñ/wyk³adów
